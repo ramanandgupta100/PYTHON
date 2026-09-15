@@ -1,0 +1,17 @@
+# Table of contents
+
+* [PYTHON](README.md)
+* [Python Installation](python-installation.md)
+* [Python 1st Program](python-1st-program.md)
+* [PRINT VALUE](print-value.md)
+* [Variables](variables.md)
+* [Data Types](data-types.md)
+* [HOW TO TAKE INPUT FROM USER ?](how-to-take-input-from-user.md)
+* [Operators](operators.md)
+* [Functions](functions.md)
+* [IF ELSE Statements](if-else-statements.md)
+* [SWITCH CASE](switch-case.md)
+* [FOR Loop](for-loop.md)
+* [WHILE Loop](while-loop.md)
+* [OTHER Loops](other-loops.md)
+* [Page 1](page-1.md)
